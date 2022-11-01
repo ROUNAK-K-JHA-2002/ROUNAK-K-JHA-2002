@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS , NodeJS , Flutter**
 
-- 👯 I’m currently working on [Space Tourism Website -- REACT JS](https://github.com/ROUNAK-K-JHA-2002/Space_TousismWebsite.git)
+- 👯 I’m currently working on [Open AI Website -- REACT JS](https://github.com/ROUNAK-K-JHA-2002/OpenAI-Website.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ROUNAK-K-JHA-2002/](https://github.com/ROUNAK-K-JHA-2002/)
 
