@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Password Manager APP](https://github.com/ROUNAK-K-JHA-2002/password-manager-app)
 
-- 🌱 I’m currently learning **ReactJS , NodeJS , Flutter , GoLang**
+- 🌱 I’m currently learning **Blockchain , NextJs , GoLang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ROUNAK-K-JHA-2002/](https://github.com/ROUNAK-K-JHA-2002/)
 
