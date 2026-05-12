@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Rounak+Kumar+Jha+%F0%9F%91%8B;Full+Stack+%7C+Mobile+%7C+Blockchain+Dev;3%2B+Years+of+Building+Real+Products;Engineer+%40+Superloving+%F0%9F%9A%80;%23Better_Than_Yesterday+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Rounak+Kumar+Jha+%F0%9F%91%8B;Full+Stack+%7C+Mobile+%7C+Blockchain+Dev;3%2B+Years+of+Building+Real+Products;Engineer+%40+Superliving+%F0%9F%9A%80;%23Better_Than_Yesterday+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
