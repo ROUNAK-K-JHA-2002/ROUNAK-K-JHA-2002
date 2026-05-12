@@ -25,7 +25,7 @@
 
 ```yaml
 name: "Rounak Kumar Jha"
-role: "Software Engineer @ Superloving"
+role: "Software Engineer 2 @ Superliving"
 experience: "3+ Years"
 location: "India 🇮🇳"
 currently_building:
