@@ -48,7 +48,7 @@ contact: "developer.dextrix@gmail.com"
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/🏢_Company-Superloving-blueviolet?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/🏢_Company-Superliving-blueviolet?style=for-the-badge"/>
     </td>
     <td>Building a full-stack product from backend APIs to Flutter mobile app — real users, real scale, real impact.</td>
   </tr>
